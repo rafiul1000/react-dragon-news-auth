@@ -33,7 +33,7 @@ const Navbar = () => {
         </div>
       </label>
     <Link>
-        <button className="btn">Button</button>
+        <button className="btn text-white bg-[#403F3F] px-10">Login</button>
     </Link>
   </div>
 </div>
